@@ -1,0 +1,9 @@
+new	IV	new
+@justtheebaddest	NO	@justtheebaddest
+so	IV	so
+thanx	OOV	thanks
+4	OOV	for
+the	IV	the
+dang	OOV	dang
+lol	OOV	lol
+kno	OOV	know
